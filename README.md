@@ -1,6 +1,6 @@
 # Todo List
 
-**Unit Test Status:** ![Build Status](https://github.com/gaytomycode/todo-list/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/gaytomycode/todo-list/actions/workflows/main.yml/badge.svg)
 
 Todo List is a simple command-line application that allows users to manage their to-do list.
 
