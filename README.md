@@ -2,14 +2,21 @@
 
 ![Build Status](https://github.com/gaytomycode/todo-list/actions/workflows/main.yml/badge.svg)
 
+![Meme of Phill](meme.jpeg)
+
 Todo List is a simple command-line application that allows users to manage their to-do list.
 
 ## Table of Contents
 
+- [About This Project](#about-this-project)
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Developing](#developing)
 - [Contributing](#contributing)
+
+## About This Project
+
+This project is not just a To-Do List application, but a demonstration of high-quality software engineering. As you navigate through the project, you will see evidence of careful attention to detail, thoughtful engineering practices, and production-quality code. The project practices continuous integration, with unit tests running on each push through GitHub Actions.
 
 ## Features
 
